@@ -1,2 +1,14 @@
-# CS
-computer science study
+# CS 课程计划列表
+
+# 第一阶段
+> 可参考[顶尖中文大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
+- 《模拟电路》
+- 《数字电路》
+- 《微机原理》
+- 《单片机课程设计》
+- 《计算机组成原理》
+
+
+# 相关书籍
+
+# reference
