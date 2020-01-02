@@ -35,3 +35,4 @@
 
 
 # reference
+- [数字电路和模拟电路有什么通俗易懂的入门读物么？](https://www.zhihu.com/question/22770895?sort=created)
