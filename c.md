@@ -1,2 +1,2 @@
 ## 入门教程
-- [C语言入门](http://c.biancheng.net/c/)
+- [C语言入门](https://www.runoob.com/cprogramming/c-tutorial.html)
