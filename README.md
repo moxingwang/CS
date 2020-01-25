@@ -10,6 +10,7 @@
 - 《单片机课程设计》
 - 《计算机组成原理》
     - [教程](https://www.bilibili.com/video/av15123338?from=search&seid=9201064727191488763)
+    - [极客教程-深入浅出计算机组成原理](https://time.geekbang.org/column/article/94470)
 - 《计算机操作系统》
 
 # Step
