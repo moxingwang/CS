@@ -24,6 +24,7 @@
 
 # Step
 - 《编译原理》
+    - [课程 编译原理之美](https://time.geekbang.org/column/article/118016)
 - 《编程语言》
 
 # Step
