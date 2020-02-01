@@ -19,15 +19,18 @@
     - [教程.操作系统_清华大学](https://www.bilibili.com/video/av6538245?p=1)
     - [教程.西安交通大学](https://www.bilibili.com/video/av15123338?t=209)
 
-
 # Step
-- 《计算机网络》
+- <<程序设计>>
 
 # Step
 - 《编程语言》
 
 - 《编译原理》
     - [课程 编译原理之美](https://time.geekbang.org/column/article/118016)
+
+
+# Step
+- 《计算机网络》
 
 
 # Step
