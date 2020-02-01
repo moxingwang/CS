@@ -16,6 +16,7 @@
 
 # Step
 - 《操作系统原理》
+    - [教程.操作系统_清华大学](https://www.bilibili.com/video/av6538245?p=1)
     - [教程.西安交通大学](https://www.bilibili.com/video/av15123338?t=209)
 
 
