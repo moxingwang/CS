@@ -12,8 +12,6 @@
 - 《计算机组成原理》
     - [教程](https://www.bilibili.com/video/av15123338?from=search&seid=9201064727191488763)
     - [极客教程-深入浅出计算机组成原理](https://time.geekbang.org/column/article/94470)
-- 《计算机操作系统》
-
 
 # Step
 - 《操作系统原理》
@@ -41,16 +39,11 @@
 
 # 相关书籍
 - [内部有书籍推荐.计算机专业学生一定要学好这几门课!](https://zhuanlan.zhihu.com/p/36036331)
-
-# 阅读
 - 程序员的自我修养
-
-
 
 
 # tools
 - 模拟仿真软件[Dream Logic 简介](https://www.codecode.net/engintime/Dream-Logic/Dream-Logic)
-
 
 # reference
 - [数字电路和模拟电路有什么通俗易懂的入门读物么？](https://www.zhihu.com/question/22770895?sort=created)
