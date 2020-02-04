@@ -1,5 +1,4 @@
 # CS 课程计划列表
-> 可参考[顶尖中文大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
 
 - 《模拟电路》
     - [教程](https://www.bilibili.com/video/av5867757?from=search&seid=13514805379078100325)
@@ -34,3 +33,4 @@
 # reference
 - [数字电路和模拟电路有什么通俗易懂的入门读物么？](https://www.zhihu.com/question/22770895?sort=created)
 - [我对模拟电路课程的理解](http://www.paincker.com/analog-circuit)
+- [顶尖中文大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
