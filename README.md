@@ -7,6 +7,7 @@
 - 《数字电路》
     - [课程](https://www.bilibili.com/video/av5867041?from=search&seid=16583576826707111207)
 - 《微机原理》
+    - [2020考研微机原理考点精要与名校真题详解](https://www.bilibili.com/video/av66807008?p=2)
 - 《单片机课程设计》
 - 《计算机组成原理》
     - [教程](https://www.bilibili.com/video/av15123338?from=search&seid=9201064727191488763)
