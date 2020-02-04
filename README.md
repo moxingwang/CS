@@ -1,7 +1,6 @@
 # CS 课程计划列表
-
-# Step
 > 可参考[顶尖中文大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
+
 - 《模拟电路》
     - [教程](https://www.bilibili.com/video/av5867757?from=search&seid=13514805379078100325)
 - 《数字电路》
@@ -12,28 +11,15 @@
 - 《计算机组成原理》
     - [教程](https://www.bilibili.com/video/av15123338?from=search&seid=9201064727191488763)
     - [极客教程-深入浅出计算机组成原理](https://time.geekbang.org/column/article/94470)
-
-# Step
 - 《操作系统原理》
     - [教程.操作系统_清华大学](https://www.bilibili.com/video/av6538245?p=1)
     - [教程.西安交通大学](https://www.bilibili.com/video/av15123338?t=209)
-
-# Step
-- <<程序设计>>
-
-# Step
-- 《编程语言》
-
 - 《编译原理》
     - [课程 编译原理之美](https://time.geekbang.org/column/article/118016)
-
-
-# Step
 - 《计算机网络》
-
-
-# Step
 - 《数据结构与算法》
+
+
 
 
 
