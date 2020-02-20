@@ -16,6 +16,7 @@
 - 《编译原理》
     - [课程 编译原理之美](https://time.geekbang.org/column/article/118016)
 - 《计算机网络》
+    - [课程 计算机网络教.西安交通大学](https://www.bilibili.com/video/av34042667?p=1)
 - 《数据结构与算法》
 
 - 《深入理解Linux内核》
